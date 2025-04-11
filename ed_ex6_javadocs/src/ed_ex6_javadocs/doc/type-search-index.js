@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ed_ex6_javadocs","l":"CarrilBiciManager"}];updateSearchResults();
